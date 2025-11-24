@@ -3,10 +3,10 @@
     bottom: 200px;
     right: 200px;
     background: #fff;
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    padding: 16px 24px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    border: 100px solid #ddd;
+    border-radius: 80px;
+    padding: 160px 240px;
+    box-shadow: 0 20px 80px rgba(0,0,0,0.2);
     z-index: 1000;
     display: flex;
     align-items: center;
