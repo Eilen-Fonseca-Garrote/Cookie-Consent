@@ -1,7 +1,7 @@
 .cookie-consent-popup {
     position: fixed;
-    bottom: 200px;
-    right: 200px;
+    bottom: 20px;
+    right: 20px;
     background: #fff;
     border: 100px solid #ddd;
     border-radius: 80px;
@@ -14,9 +14,9 @@
     font-family: Arial, sans-serif;
 }
 .cookie-image {
-    width: 180px;
-    height:180px;
-    margin-right: 120px;
+    width: 48px;
+    height: 48px;
+    margin-right: 12px;
 }
 .cookie-consent-popup p {
     margin: 0;
